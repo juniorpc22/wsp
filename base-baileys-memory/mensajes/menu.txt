@@ -1,0 +1,8 @@
+Te comparto las siguientes opciones para poder atenderte.
+📅 *horario* para ver el horario de atecncion
+📞 *contacto* para contactarse con el Dueño
+🚩 *ubicacion* para ver la ubicacion de la tienda fisica
+🛒 *producto* aqui veras el catalogo
+🧠 *consulta* para hablar con un asesor inteligente
+
+*salir*
